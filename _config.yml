@@ -3,3 +3,5 @@ minimal_mistakes_skin: "dirt"
 title: "My Jekyll Site"
 title_separator: "-"
 description: "This is my great Jekyll site! Come and find out more!"
+
+include: ["_pages"]
