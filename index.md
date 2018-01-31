@@ -3,6 +3,10 @@ title: Home
 description: Welcome to the home page. Click around a little bit!
 permalink: /
 layout: splash
+excerpt: "This some fancy header text"
+header:
+  overlay_color: "#5e616c"
+  caption: "This is where I would give the image creator credit"
 ---
 # Eminus torvi nosterque est ipsa vellet prendere
 
