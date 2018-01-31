@@ -2,6 +2,7 @@
 title: Home
 description: Welcome to the home page. Click around a little bit!
 permalink: /
+layout: splash
 ---
 # Eminus torvi nosterque est ipsa vellet prendere
 
