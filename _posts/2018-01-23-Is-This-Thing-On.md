@@ -3,6 +3,8 @@ title: Is This Thing On?
 layout: single
 permalink: /is-this-thing-on/
 published: true
+read_time: true
+share: true
 ---
 # Tanto quorum
 
