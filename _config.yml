@@ -5,6 +5,3 @@ title_separator: "-"
 description: "This is my great Jekyll site! Come and find out more!"
 
 include: ["_pages"]
-
-paginate: 5 # amount of posts to show
-paginate_path: /blog/page:num/
