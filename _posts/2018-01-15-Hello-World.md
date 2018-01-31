@@ -1,6 +1,5 @@
 ---
 title: Hello World
-layout: single
 permalink: /hello-world/
 published: true
 ---

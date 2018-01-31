@@ -8,3 +8,14 @@ include: ["_pages"]
 
 paginate: 5 # amount of posts to show
 paginate_path: /blog/page:num/
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true

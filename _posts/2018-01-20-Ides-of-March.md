@@ -1,6 +1,5 @@
 ---
 title: The Ides of March
-layout: single
 permalink: /ides-of-march/
 published: true
 ---
